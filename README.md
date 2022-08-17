@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/a-hagi613/Projects](https://github.com/a-hagi613/Projects)
 
-- 📫 How to reach me **abduullahi.hagi98@gmail.com**
+- 📫 How to reach me: **abduullahi.hagi98@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 
