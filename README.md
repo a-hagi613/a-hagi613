@@ -3,7 +3,7 @@
 
 - 🔭 I recently finished working on [a Crypto Data and Analytics Dashboard](https://github.com/a-hagi613/Projects/tree/main/1.%20The%20Crypto%20Sleuth)
 
-- 🌱 I’m currently learning **Bootstrap and React.**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/a-hagi613/Projects](https://github.com/a-hagi613/Projects)
 
