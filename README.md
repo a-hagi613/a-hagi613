@@ -27,7 +27,7 @@
 
 
 
-# Hi 👋 I'm `Abdullahi` and I'm a full stack developer from Canada 🍁
+# Hi 👋 I'm `Abdullahi`, I'm a full stack developer from Canada 🍁
 
 ### Badges
 ###### Languages & Markup
@@ -77,6 +77,6 @@
 
 
 ### Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=a-hagi613&theme=prussian&count_private=true&hide_border=true&line_height=25)
+![Github stats](https://github-readme-stats.vercel.app/api?username=a-hagi613&show_icons=true&locale=en)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-hagi613&layout=compact&theme=prussian&count_private=true&hide_border=true&line_height=25)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=a-hagi613&show_icons=true&locale=en&layout=compact)
