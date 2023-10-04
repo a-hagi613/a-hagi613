@@ -73,7 +73,7 @@
 
 ### Current Projects
 - [`portfolio`](https://github.com/a-hagi613): My portfolio website. WIP.
-- [`skill-sync`](https://github.com/a-hagi613/skill-sync): [skill-sync]([https://xkcd.social](https://skill-sync.vercel.app/)) is an ai assisted resume and cover letter generator.
+- [`skill-sync`](https://github.com/a-hagi613/skills-sync1): [skill-sync]([https://xkcd.social](https://skill-sync.vercel.app/)) is an ai assisted resume and cover letter generator.
 
 
 ### Stats
