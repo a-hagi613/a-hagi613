@@ -1,7 +1,7 @@
 <!--  
 
  <h1 align="center">Hi 👋, I'm Abdullahi</h1>
-<h3 align="center">I am a junior full stack developer from Canada 🍁</h3>
+<h3 align="center">I am a software developer from Canada 🍁</h3>
 
 - 🔭 I recently finished working on [a Crypto Data and Analytics Dashboard](https://github.com/a-hagi613/Projects/tree/main/1.%20The%20Crypto%20Sleuth)
 
