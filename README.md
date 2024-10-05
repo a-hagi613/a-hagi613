@@ -1,7 +1,7 @@
 <!--  
 
  <h1 align="center">Hi 👋, I'm Abdullahi</h1>
-<h3 align="center">I am a software developer from Canada 🍁</h3>
+<h3 align="center">I am a Software Engineer from Canada 🍁</h3>
 
 - 🔭 I recently finished working on [a Crypto Data and Analytics Dashboard](https://github.com/a-hagi613/Projects/tree/main/1.%20The%20Crypto%20Sleuth)
 
@@ -23,11 +23,23 @@
 
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-hagi613&show_icons=true&locale=en" alt="a-hagi613" /></p>
 
+
+
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=a-hagi613&show_icons=true&locale=en)
+
+
+
+### Current Projects
+- [`portfolio`](https://github.com/a-hagi613): My portfolio website. WIP.
+- [`skill-sync`](https://github.com/a-hagi613/skills-sync1): [skill-sync]([https://xkcd.social](https://skill-sync.vercel.app/)) is an ai assisted resume and cover letter generator.
+
 -->
 
 
 
-# Hi 👋 I'm `Abdullahi`, I'm a full stack developer from Canada 🍁
+# Hi 👋 I'm `Abdulahi`, I'm a Software Engineer from Canada 🍁
 
 
 ###### Languages
@@ -53,30 +65,19 @@
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
 ###### Platforms & Services
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
 
 ###### Tools & DX
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-
-
-### Current Projects
-- [`portfolio`](https://github.com/a-hagi613): My portfolio website. WIP.
-- [`skill-sync`](https://github.com/a-hagi613/skills-sync1): [skill-sync]([https://xkcd.social](https://skill-sync.vercel.app/)) is an ai assisted resume and cover letter generator.
-
-
 ### Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=a-hagi613&show_icons=true&locale=en)
-<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=a-hagi613&show_icons=true&locale=en&layout=compact)
