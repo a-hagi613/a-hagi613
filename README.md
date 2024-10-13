@@ -39,7 +39,7 @@
 
 
 
-# Hi 👋 I'm `Abdulahi`, I'm a Software Engineer from Canada 🍁
+# Hi 👋 I'm `Abdullahi`, I'm a Software Engineer from Canada 🍁
 
 
 ###### Languages
